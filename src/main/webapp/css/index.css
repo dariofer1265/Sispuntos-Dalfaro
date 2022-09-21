@@ -1,0 +1,44 @@
+body{
+    background-image: url("../img/textura_negra.jpg");
+}
+
+.bi-facebook, .bi-instagram{
+    color:#fff;
+    margin-right: 20px;
+}
+.bi-envelope-fill, .phone-icon{
+    color:#fff;
+}
+.card{
+    margin-top:100px !important;
+    margin-bottom: 50px;
+    max-width: 40rem;
+    text-align: center;
+    -webkit-box-shadow: 3px 3px 12px -4px rgba(217,217,217,1);
+    -moz-box-shadow: 3px 3px 12px -4px rgba(217,217,217,1);
+    box-shadow: 3px 3px 10px -4px rgba(217,217,217,1);
+}
+.card-group{
+    
+}
+.fot{
+    color:#363635 !important;
+    text-decoration: none;
+}
+.nav-item, nav-link{
+    text-align: center !important;
+}
+.nav-link{
+    color:#000 !important;
+}
+.nav-link.active{
+    font-weight: bold;
+}
+#topbar{
+    padding:10px !important;
+}
+#toptext{
+    padding-left:10px;
+    padding-right: 20px;
+    color:#fff;
+}
